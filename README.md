@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Rafael-Gonzalez
-    </title>
+    <title> Rafael-Gonzalez
     <style>
       body { 
-        background-color: e4e7e3;
+        background-color: #becbe6;
         }
       h1 {
-        color: e06367;
+        color: #061942;
         }
       p {
-        color: 5b8e9d;
+        color: #010817;
         }
     </style>
+   </title>
   </head>
   <body>
     <h1>My name is Rafael Gonzalez</h1>
