@@ -4,13 +4,13 @@
     <title> Rafael-Gonzalez </title>
     <style>
       body { 
-        background-color: white;
+       background-color: #d3dcf0;
         }
       h1 {
-        color: blue;
+       color: #1d305b;
         }
       p {
-        color: red;
+       color: #971f28;
         }
     </style>
   </head>
