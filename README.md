@@ -2,10 +2,10 @@
 <html>
   <head>
     <title>Rafael-Gonzalez</title>
-    <style>
+    <style
       body { background-color: #e4e7e3; }
       h1 { color: #e06367; }
-      p { color: #5b8e9d; }
+      p { color: #5b8e9d; }>
     </style>
   </head>
   <body>
