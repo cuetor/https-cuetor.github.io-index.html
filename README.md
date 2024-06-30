@@ -3,9 +3,9 @@
   <head>
     <title>Rafael-Gonzalez</title>
     <style>
-      body{background-color: E4E7E3}
-      h1{color:E06367}
-      p{color:5B8E9D}
+      body { background-color: #e4e7e3; }
+      h1 { color: #e06367; }
+      p { color: #5b8e9d; }
     </style>
   </head>
   <body>
