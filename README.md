@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Rafael Gonzalez</title>
-    <style>
-     body {
-        background: #F7F7F7;
-        }
-       h1 {
-        color: #41292C;
-        }
-        p {
-        color: #444444;
-        }
+<head>
+  <title>Rafael Gonzalez</title>
+  <style>
+   body {
+     background: #F7F7F7;
+   }
+   h1 {
+     color: #41292C;
+   }
+   p {
+     color: #444444;
+   }
     </style>
   </head>
   <body>
