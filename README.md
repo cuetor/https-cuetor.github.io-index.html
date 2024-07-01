@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> Rafael-Gonzalez </title>
+    <title>Rafael Gonzalez</title>
     <style>
-      body { 
-       background-color: #d3dcf0;
+     body {
+        background: #F7F7F7;
         }
-      h1 {
-       color: #1d305b;
+       h1 {
+        color: #41292C;
         }
-      p {
-       color: #971f28;
+        p {
+        color: #444444;
         }
     </style>
   </head>
