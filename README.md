@@ -3,14 +3,14 @@
 <head>
   <title>Rafael Gonzalez</title>
   <style>
-     body {
-            background-color: F7F7F7;
+   body {
+    background-color: F7F7F7;
    }
    h1 {
-     color: 41292C;
+    color: 41292C;
    }
    p {
-   color: 444444;
+    color: 444444;
    }
     </style>
   </head>
